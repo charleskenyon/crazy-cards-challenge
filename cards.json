@@ -1,0 +1,22 @@
+[{
+	"id": 1,
+	"name": "Student Life Card",
+	"apr": "18.9%",
+	"balanceTransferOfferDuration": "0 Months",
+	"purchaseOfferDuration": "6 Months",
+	"creditAvailable": 1200
+}, {
+	"id": 2,
+	"name": "Anywhere Card",
+	"apr": "33.9%",
+	"balanceTransferOfferDuration": "0 Months",
+	"purchaseOfferDuration": "0 Months",
+	"creditAvailable": 300
+}, {
+	"id": 3,
+	"name": "Liquid Card",
+	"apr": "33.9%",
+	"balanceTransferOfferDuration": "12 Months",
+	"purchaseOfferDuration": "6 Months",
+	"creditAvailable": 3000
+}]

@@ -1,0 +1,67 @@
+body {
+    transition: .30s;
+    font-size: 15px;
+
+}
+
+h2:first-of-type {
+    padding-bottom: 10px;
+}
+
+#customerPanel {
+    padding-bottom: 5px;
+}
+
+.form-control {
+    font-size: 17px;
+    width: 300px;
+}
+
+#creditTotal {
+    padding-top: 6px;
+}
+
+.card {
+    padding: 15px;
+    margin-bottom: 15px;
+    transition: .30s;
+    color: #D6D6D6;
+    border: 1.5px solid #F5F5F5;
+    border-radius: 5px;
+}
+
+.card.selected {
+    color: #333333;
+    border-color: #C0C0C0;
+}
+
+.cardMain {
+    width: 100%;
+    height: 30px;
+}
+
+.cardMain p {
+    color: inherit;
+    padding-top: 4px;
+}
+
+.card:hover {
+    border-radius: 5px;
+    background: #F5F5F5;
+}
+
+.card a {
+    font-size: 20px;
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.cardDetails {
+    margin-top: 5px;
+    display: none;
+    font-size: 14px;
+}

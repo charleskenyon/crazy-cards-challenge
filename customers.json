@@ -1,0 +1,18 @@
+[{
+  "id": 1,
+  "name": "Ollie Murphree",
+  "annualIncome": 34000,
+  "employmentStatus": "Full Time Employment"
+},
+{
+  "id": 2,
+  "name": "Elizabeth Edmundson",
+  "annualIncome": 17000,
+  "employmentStatus": "Student"
+},
+{
+  "id": 3,
+  "name": "Trevor Rieck",
+  "annualIncome": 15000,
+  "employmentStatus": "Part Time Employed"
+}]
